@@ -13,7 +13,8 @@ Projeler
 
 Katkıda Bulunduğum Projeler
 
-1. Hastane Randevu Sistemi Bitirme Projesi(https://github.com/Begumyy/BSHospitalWebsitee): Bu proje bir ekip çalışmasıdır. @Savaş Serbest ile birlikte yapılmıştır. Acunmedya Akademi bitirme projesidir.
+1. Hastane Randevu Sistemi Bitirme Projesi(https://github.com/Begumyy/BSHospitalWebsitee):  Savaş Serbest ile birlikte gerçekleştirdiğimiz bitirme projesini içermektedir. Proje kapsamında hastaların ekleme, güncelleme ve silme işlemlerini gerçekleştirebilen bir yönetici (admin) paneli ile kendi hesaplarına sahip olan agent panelinin bu işlemleri yapabildiği bir sistem üzerinde odaklanmaktadır. Detaylı bilgi için yukarıda parantez içerisindeki proje dosyalarını inceleyebilirsiniz.
+
 
 Dil ve Teknolojiler
 - JavaScript, HTML, CSS
