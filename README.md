@@ -9,11 +9,11 @@ Projeler
 3. Yayınevi Uygulaması(https://github.com/Begumyy/KutuphaneHi): Bu projede Entity Framework kullanılarak bir online yayınevi uygulaması yapılmıştır.
 4. Entity Framework Core Çalışması(https://github.com/Begumyy/EFCoreDbFirst):  Bu projede EFCoreDbFirst, EFCoreCodeFirst, EFCoreLinqSorguları ve EFCore ile Reçete uygulaması çalışmaları yapılmıştır.
 5. ToDoList Uygulaması(https://github.com/Begumyy/TodoList.TodoList):  Bu projede jQuery AJAX metodları kullanılarak basit bir ToDoList Uygulaması yapılmıştır.
-6. Hastane Randevu Sistemi Bitirme Projesi(https://github.com/Begumyy/BSHospitalWebsitee):  Savaş Serbest ile birlikte gerçekleştirdiğimiz bitirme projesini içermektedir. Proje kapsamında hastaların ekleme, güncelleme ve silme işlemlerini gerçekleştirebilen bir yönetici (admin) paneli ile kendi hesaplarına sahip olan agent panelinin bu işlemleri yapabildiği bir sistem üzerinde odaklanmaktadır. Detaylı bilgi için yukarıda parantez içerisindeki proje dosyalarını inceleyebilirsiniz.
+6. Hastane Randevu Sistemi Bitirme Projesi(https://github.com/Begumyy/BSHospitalWebsitee):  Savaş Serbest ile birlikte gerçekleştirdiğimiz bitirme projesini içermektedir. Proje kapsamında hastaların ekleme, güncelleme ve silme işlemlerini gerçekleştirebilen bir yönetici (admin) paneli ile kendi hesaplarına sahip olan agent panelinin bu işlemleri yapabildiği bir sistem üzerinde odaklanmaktadır. Detaylı bilgi için yukarıda parantez içerisinde belirtilen proje dosyalarını inceleyebilirsiniz.
 
 Katkıda Bulunduğum Projeler
 
-1. Hastane Randevu Sistemi Bitirme Projesi(https://github.com/Begumyy/BSHospitalWebsitee):  Savaş Serbest ile birlikte gerçekleştirdiğimiz bitirme projesini içermektedir. Proje kapsamında hastaların ekleme, güncelleme ve silme işlemlerini gerçekleştirebilen bir yönetici (admin) paneli ile kendi hesaplarına sahip olan agent panelinin bu işlemleri yapabildiği bir sistem üzerinde odaklanmaktadır. Detaylı bilgi için yukarıda parantez içerisindeki proje dosyalarını inceleyebilirsiniz.
+1. Hastane Randevu Sistemi Bitirme Projesi(https://github.com/Begumyy/BSHospitalWebsitee):  Savaş Serbest ile birlikte gerçekleştirdiğimiz bitirme projesini içermektedir. Proje kapsamında hastaların ekleme, güncelleme ve silme işlemlerini gerçekleştirebilen bir yönetici (admin) paneli ile kendi hesaplarına sahip olan agent panelinin bu işlemleri yapabildiği bir sistem üzerinde odaklanmaktadır. Detaylı bilgi için yukarıda parantez içerisinde içerisinde belirtilen proje dosyalarını inceleyebilirsiniz.
 
 
 Dil ve Teknolojiler
