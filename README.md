@@ -4,7 +4,7 @@ Merhaba! Benim adım Begüm Yünkül. Burada, GitHub profilimdeki projeleri ve k
 
 Projeler
 
-1. Günlük Uygulaması(https://github.com/Begumyy/DiaryApp): 
+1. Günlük Uygulaması(https://github.com/Begumyy/DiaryApp)
 2. Kahve Dükkanı Websitesi(https://github.com/Begumyy/OnlineCoffeeShopWebsite):  Bu proje temel HTML VE CSS bilgileriyle VS Code ile yapılmıştır.
 3. Yayınevi Uygulaması(https://github.com/Begumyy/KutuphaneHi): Bu projede Entity Framework kullanılarak bir online yayınevi uygulaması yapılmıştır.
 4. Entity Framework Core Çalışması(https://github.com/Begumyy/EFCoreDbFirst):  Bu projede EFCoreDbFirst, EFCoreCodeFirst, EFCoreLinqSorguları ve EFCore ile Reçete uygulaması çalışmaları yapılmıştır.
